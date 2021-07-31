@@ -18,6 +18,8 @@ function sum(a, b) {
   return [total,  `The sum of ${a} and ${b} is ${total}.`];
 }
 
+let xxx=50;
+
 // Here is the test for sum(); uncomment it to run it
 testSum(4, 7);
 
