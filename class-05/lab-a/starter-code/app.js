@@ -74,7 +74,7 @@ function sumAndMultiply(a, b, c) { //eslint-disable-line
    let sum1 =sum(a, b);
    let sum2=sum(sum1[0],c);
 
-console.log(sum2[0]);
+
 let Total=sum2[0];
 let product1=1;
 
